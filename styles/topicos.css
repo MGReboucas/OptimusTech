@@ -1,0 +1,13 @@
+
+.topicos{
+     display: flex;
+     flex-direction: row;
+}
+
+.topicos__topico__numeros{
+     font-size: 4rem;
+}
+
+.topicos__topico__titulo{
+     font-size: 1.5rem;
+}

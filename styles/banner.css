@@ -1,0 +1,27 @@
+
+.banner{
+     display: flex;
+     padding: 4.4em 0em 1em 0em;
+     margin: 0em 30em 0em 30em;
+     flex-direction: column;
+     text-align: center;
+}
+
+.banner__sobrenos{
+     color: var(--cor-vinho);
+     font-size: 1.2rem;
+     font-weight: 700;
+     margin-bottom: 1em;
+}
+
+.banner__titulo{
+     font-size: 3rem;
+     font-weight: 700;
+     margin-bottom: .5em;
+}
+
+.banner__texto{
+     color: var(--cor-cinza);
+     font-size: 1.2rem;
+     line-height: 1.5em;
+}
