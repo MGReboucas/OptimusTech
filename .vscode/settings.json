@@ -18,7 +18,7 @@
     "editor.scrollbar.vertical": "hidden",
     "editor.scrollbar.horizontal": "hidden",
     "workbench.statusBar.visible": false,
-    //"window.titleBarStyle": "native",
+    "window.titleBarStyle": "native",
     "apc.electron": {
         "titleBarStyle": "hiddenInset",
         "trafficLightPosition": {
