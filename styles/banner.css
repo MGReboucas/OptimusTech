@@ -9,7 +9,7 @@
 
 .banner__sobrenos{
      color: var(--cor-vinho);
-     font-size: 1.2rem;
+     font-size: 1rem;
      font-weight: 700;
      margin-bottom: 1em;
 }
@@ -26,3 +26,22 @@
      line-height: 1.5em;
      margin-bottom: 3em;
 }
+
+.banner__2{
+     align-items: center;
+     margin-bottom: 4em;
+}
+
+.banner__vagas{
+     color: var(--cor-vinho);
+     background-color: var(--cor-back-botao);
+     padding: .5em 0em;
+     width: 9em;
+     border-radius: 2em;
+     margin: 1em 0em;
+}
+
+
+
+
+

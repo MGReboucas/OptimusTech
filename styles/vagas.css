@@ -1,0 +1,51 @@
+
+.vagas{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+}
+
+.conteiner{
+     border: 2px solid var(--cor-back-botao);
+     padding: 1.5em 30em 1.75em 1.5em;
+     border-radius: 1em;
+     margin-bottom: 1.5em;
+}
+
+.conteiner__alteracao{
+     margin-bottom: 0em;
+}
+
+.conteiner__alteracao_2{
+     margin-bottom: 6em;
+}
+
+.vagas__titulo{
+     font-size: 1.25em;
+     font-weight: 500;
+     margin: 1em 23em 2em 0em;
+}
+
+.vagas__titulo_1{
+     margin: 0em 34em 2em 0em;
+}
+
+.vagas__titulo_2{
+     margin: 4em 23em 2em 0em;
+}
+
+.conteiner__titulo{
+     font-size: 1.12rem;
+     color: var(--cor-preto);
+     margin-bottom: 2em;
+}
+
+.conteiner__configuracoes{
+     display: flex;
+     gap: 1.5em;
+}
+
+.conteiner__contiguracoes__topicos{
+     color: var(--cor-cinza);
+     font-size: 1rem;
+}

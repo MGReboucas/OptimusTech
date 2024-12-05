@@ -2,12 +2,15 @@
 @import url("./styles/header.css");
 @import url("./styles/banner.css");
 @import url("./styles/topicos.css");
+@import url("./styles/vagas.css");
 
 :root {
      --cor-branco: #FFFFFF;
      --cor-vinho: #8E2424;
+     --cor-branco-p-vinho: #fdf8f8;
      --cor-preto: #101828;
      --cor-cinza: #667085;
+     --cor-back-botao: #f9f4f4;
 
      --fonte-principal: "Inter", sans-serif;
 }
