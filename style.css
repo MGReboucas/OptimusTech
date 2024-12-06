@@ -3,6 +3,8 @@
 @import url("./styles/banner.css");
 @import url("./styles/topicos.css");
 @import url("./styles/vagas.css");
+@import url("./styles/banner_final.css");
+@import url("./styles/footer.css");
 
 :root {
      --cor-branco: #FFFFFF;
@@ -11,6 +13,8 @@
      --cor-preto: #101828;
      --cor-cinza: #667085;
      --cor-back-botao: #f9f4f4;
+     --cor-footer: #F9FAFB;
+
 
      --fonte-principal: "Inter", sans-serif;
 }

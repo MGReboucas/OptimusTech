@@ -1,0 +1,65 @@
+
+.banner__final{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     background: var(--cor-branco-p-vinho);
+     width: 90vw;
+     border-radius: 1em;
+     margin: 0em 0em 6em 4em;
+     padding: 4em 1em 1em 1em;
+}
+
+.banner__final__textos{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     margin: 0em 4em 0em 4em;
+}
+
+.banner__final__textos__paragrafo{
+     font-size: .875rem;
+     font-weight: 600;
+     color: var(--cor-vinho);
+     margin-bottom: 1em;
+}
+
+.banner__final__textos__titulo{
+     text-align: center;
+     font-weight: 500;
+     font-size: 2.25rem;
+     margin-bottom: 2em;
+}
+
+.banner__final__desenvolvedor{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     gap: 4em;
+     margin-bottom: 4em;
+}
+
+.banner__final__desenvolvedor__d{
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+}
+
+.banner__final__desenvolvedor__imagem{
+     width: 3.5em;
+     margin-bottom: 1em;
+}
+
+.banner__final__desenvolvedor__d__titulo{
+     color: var(--cor-preto);
+     font-size: 1em;
+     font-weight: 500;
+     margin-bottom: .5em;
+}
+
+.banner__final__desenvolvedor__d__subtitulo{
+     color: var(--cor-cinza);
+     font-size: .875rem;
+     font-weight: 400;
+}

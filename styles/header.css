@@ -40,7 +40,7 @@
 .cabecalho__botoes__link__cadastro{
      background: var(--cor-vinho);
      padding: 1em;
-     border-radius: .5em;
+     border-radius: 1em;
      color: var(--cor-branco);
      text-decoration: none;
 }
